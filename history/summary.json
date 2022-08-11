@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "apron",
     "status": "down",
-    "uptime": "20.02%",
+    "uptime": "19.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.63%",
-    "time": 299,
+    "uptimeYear": "5.36%",
+    "time": 298,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-08-10": 39,
+      "2022-08-11": 41,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -366,8 +367,7 @@
       "2021-08-19": 98,
       "2021-08-17": 68,
       "2021-08-16": 38,
-      "2021-08-14": 64,
-      "2021-08-11": 108
+      "2021-08-14": 64
     }
   }
 ]
